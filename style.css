@@ -1,0 +1,104 @@
+html{
+  height:100vh;
+  width:100vw;
+}
+body {
+  margin: 50px;
+  font-family: "Orbitron";
+}
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+}
+.list {
+  display: flex;
+  list-style-type: none;
+}
+.list-item {
+  margin: 0 20px;
+}
+.button-group {
+  display: flex;
+}
+svg {
+  width: 25px;
+}
+.nav-button {
+  height: 30px;
+  width: 100px;
+  margin-left: 10px;
+  border-radius: 5px;
+  background: transparent;
+  color: #758283;
+}
+.list-item:first-child {
+  font-weight: bold;
+  text-decoration: underline;
+}
+.hero-container {
+  display: flex;
+  margin-top: 50px;
+}
+.hero-container > div > img {
+  width: 300px;
+  position: absolute;
+  left: 50px;
+}
+.square > img {
+  width: 200px;
+  position: absolute;
+  left: 190px;
+  bottom: 48px;
+}
+.globe {
+  position: absolute;
+  left: 50%;
+  top: 130px;
+}
+.hero-container-right {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  width: 711px;
+  left: 480px;
+  top: 35%;
+  align-items: center;
+}
+.hero-heading {
+  font-size: 53px;
+  margin-bottom: 0px;
+}
+.hero-description {
+  margin-bottom: 30px;
+  color: #758283;
+  font-size: 12px;
+  width: 533px;
+}
+.button-email {
+  font-family: "orbitron";
+  width: 140px;
+  background: transparent;
+  color: #758283;
+  border-radius: 5px;
+}
+.button-join {
+  font-family: "orbitron";
+  width: 100px;
+  background: #0d0d0d;
+  color: #fff;
+  border-radius: 5px;
+  margin-left: 10px;
+}
+.contact-heading {
+  text-align: center;
+  font-family: "Poppins";
+  color: #758283;
+}
+.icons span {
+  margin: 0 5px;
+}
+.star {
+  position: absolute;
+  right: 160px;
+  top: 170px;
+}
