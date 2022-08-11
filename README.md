@@ -6,29 +6,31 @@ This is my very first project. It is a very stylish web-page. Kindly note that I
 ### Name: SOURITA RAY
 
 ## Demo
-***
+
 ![outputimg](Output.png)
 
 
 ## What have I learnt in this project?
-***
+
 In this project I have learned about 
 - CSS Positions mainly  about absolute position and relative position. 
 - CSS Selectors basics mainly about direct child selector.
 
 ## Time required to complete the project
-***
+
 More than 12 hours since this is the very first project I have done on HTML and CSS.
 
+## Live link
+[https://street-style-landing-pg-souritaray.netlify.app/](https://street-style-landing-pg-souritaray.netlify.app/)
 
 
 ## Contact me on:
-***
+
 - [Linked In-Sourita Ray](www.linkedin.com/in/sourita-ray-89bab0212)
 - [Email-id Sourita Ray](souritaray@gmail.com)
 
 ## Feedback
-***
+
 You can provide your feedback at souritaray@gmail.com
 
 
