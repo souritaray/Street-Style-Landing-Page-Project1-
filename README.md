@@ -21,7 +21,7 @@ In this project I have learned about
 More than 12 hours since this is the very first project I have done on HTML and CSS.
 
 ## Live link
-[https://street-style-landing-pg-souritaray.netlify.app/](https://street-style-landing-pg-souritaray.netlify.app/)
+[Street Style Landing Page](https://street-style-landing-pg-souritaray.netlify.app/)
 
 
 ## Contact me on:
